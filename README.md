@@ -1,4 +1,4 @@
-# Dominos Pizza Study Design Assignment
+# Dominos Pizza Study Design Proposal
 
 ![image](https://user-images.githubusercontent.com/56441231/218329797-89ee961a-c05a-4893-b87c-15c3d6e7a25a.png)
 
@@ -11,7 +11,7 @@
  
 
 
-## my memorandum 
+## My memorandum 
 
 
 Dear CEO,
