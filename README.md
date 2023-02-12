@@ -7,7 +7,7 @@
 ## Objective
 - I am hired as a consultant by Dominos Pizza. They want my help to collect and summarize appropriate data to be used in a marketing advertisement that makes a comparison between their Competitors (eg.Debonairs Pizza).
 
-- I was asked to prepare a memorandum to the Debonairs Pizza CEO describing how I could conduct such a study to support claims focusing on one or more of the company’s strengths (such as amount of toppings, speed of service, customer satisfaction, etc.). 
+- I was asked to prepare a memorandum to the Dominos Pizza CEO describing how I could conduct such a study to support claims focusing on one or more of the company’s strengths (such as amount of toppings, speed of service, customer satisfaction, etc.). 
  
 
 
