@@ -54,7 +54,7 @@ To summarize the data for this variable, we will use a boxplot to compare the di
 #### Customer frequency and recency: 
 To summarize the data for these variables, we will use a histogram to visualize the distribution of customer visits to Dominos Pizza and how recently they visited. We will also use numerical summaries, such as the mean or median, to describe the average number of visits and average recency of visits for each customer.
 
-### In conclusion,
+## In conclusion,
 The study design we have proposed will allow us to collect and summarize data to be used in a marketing advertisement comparing Dominos Pizza to our main competitor. By focusing on the variety of toppings offered, the speed of service, and the impact of bonus and customer segment marketing on customer behavior, we can demonstrate the strengths of our company and provide valuable information for potential customers.
 
   I look forward to hearing your thoughts on this proposal.
